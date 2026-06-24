@@ -1,0 +1,8 @@
+numpy
+pandas
+pyarrow
+rasterio
+affine
+Pillow
+pyproj
+huggingface_hub
