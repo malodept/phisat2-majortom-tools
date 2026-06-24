@@ -22,7 +22,6 @@ The generation of the corrected PhiSat-2 / Sentinel-2 LightGlue triplets is not 
 
 ## Output structure
 
-```text
 phisat2_l1c_major_tom_demo/
 ├── index/
 │   └── global.parquet
